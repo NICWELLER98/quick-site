@@ -1,0 +1,2 @@
+# quick-site
+simple website
